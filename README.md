@@ -29,7 +29,7 @@
 - Always exploring AI, web development, and modern programming languages  
 
 🌱 **Currently Learning**  
-- backend
+- end-to-end development
 - Building personal projects and improving coding skills  
 
 ⚡ **Fun Facts**  
