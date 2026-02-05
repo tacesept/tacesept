@@ -21,4 +21,24 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Thawit
+# Hi there 👋, I'm Thawit
+
+💻 **About Me**  
+- Full-stack / Frontend / Backend developer (or your role)  
+- Passionate about coding, open-source, and learning new tech  
+- Always exploring AI, web development, and modern programming languages  
+
+🌱 **Currently Learning**  
+- advenced backend
+- Building personal projects and improving coding skills  
+
+⚡ **Fun Facts**  
+- Coffee > Sleep ☕  
+- Love gaming, anime, and tech stuff 🎮  
+- Curious about everything tech-related  
+
+📫 **Get in Touch**   
+
+
+
+
