@@ -21,7 +21,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-# Hi there 👋, I'm Thawit
+# Hi there, I'm Thawit
 
 💻 **About Me**  
 - Full-stack / Frontend / Backend developer (or your role)  
@@ -29,7 +29,7 @@
 - Always exploring AI, web development, and modern programming languages  
 
 🌱 **Currently Learning**  
-- advenced backend
+- backend
 - Building personal projects and improving coding skills  
 
 ⚡ **Fun Facts**  
